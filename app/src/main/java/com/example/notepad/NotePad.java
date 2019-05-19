@@ -135,13 +135,13 @@ public final class NotePad {
          */
         public static final String COLUMN_NAME_MODIFICATION_DATE = "modified";
         public static final String COLUMN_NAME_BACK_COLOR = "color";
-        public static final int DEFAULT_COLOR = 0; //白
-        public static final int YELLOW_COLOR = 1; //黄
-        public static final int BLUE_COLOR = 2; //蓝
-        public static final int GREEN_COLOR = 3; //绿
-        public static final int RED_COLOR = 4; //红
-        public static final int PINK_COLOR = 5;//
-        public static final int VIOLET_COLOR=6;//
+        public static final int DEFAULT_COLOR = 0; //白色
+        public static final int YELLOW_COLOR = 1; //黄色
+        public static final int BLUE_COLOR = 2; //蓝色
+        public static final int GREEN_COLOR = 3; //绿色
+        public static final int RED_COLOR = 4; //红色
+        public static final int PINK_COLOR = 5;//粉色
+        public static final int VIOLET_COLOR=6;// 浅紫色
 
     }
 }

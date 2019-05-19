@@ -340,6 +340,12 @@ public class NoteEditor extends AppCompatActivity {
             case NotePad.Notes.RED_COLOR:
                 mText.setBackgroundColor(Color.rgb(244, 149, 133));
                 break;
+            case NotePad.Notes.PINK_COLOR:
+                mText.setBackgroundColor(Color.rgb(255, 192, 203));
+                break;
+            case NotePad.Notes.VIOLET_COLOR:
+                mText.setBackgroundColor(Color.rgb(221, 160, 221));
+                break;
             default:
                 mText.setBackgroundColor(Color.rgb(255, 255, 255));
                 break;
