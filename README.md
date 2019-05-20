@@ -15,9 +15,11 @@ Android Mid-term operation
   
 
   更改记事本的背景
+    
 ![](https://github.com/wall-chen/NotePad/blob/master/images/Notepad_P1.PNG)  
 
   UI美化
+    
 ![](https://github.com/wall-chen/NotePad/blob/master/images/Notepad_P2.PNG)  
 
 
